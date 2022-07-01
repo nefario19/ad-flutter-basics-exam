@@ -1,4 +1,4 @@
-# Application Development Toets P1
+# Flutter Basics Exam
 
 Je moet een nieuw Flutter project aanmaken genaamd Animal Facts.
 
