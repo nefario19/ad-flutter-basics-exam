@@ -4,12 +4,12 @@ Je moet een nieuw Flutter project aanmaken genaamd Animal Facts.
 
 Bij het maken van deze applicatie bewijs je dat:
 
-* Leerdoel 1
-* Leerdoel 2
-* Leerdoel 3
-* Leerdoel 4
-* Leerdoel 5
-* Leerdoel 6
+* Jij weet hoe je Flutter moet installeren & instellen.
+* Jij kan uitleggen wat hot reload en pubspec file zijn.
+* Jij jouw app kan laden op een fysiek apparaat.
+* Jij de basics van layout in Flutter kan toepassen.
+* Jij weet hoe jij lokale assets moet gebruiken.
+* Jij het verschil kan uitleggen tussen stateful en stateless widgets.
 
 Voor het nakijken van deze toets wordt het nakijkmodel op [OnderwijsOnline](https://mboutrecht.onderwijsonline.nl/manage/content?page=1) gebruikt.
 
